@@ -1,0 +1,25 @@
+{
+  "development": {
+    "username": "yadaguru",
+    "password": "yadaguru",
+    "database": "yadaguru",
+    "host": "postgres",
+    "dialect": "postgresql"
+  },
+  "test": {
+    "username": "yadaguru",
+    "password": "yadaguru",
+    "database": "yadaguru_test",
+    "host": "127.0.0.1",
+    "dialect": "postgresql",
+    "logging": false
+  },
+  "qa": {
+    "use_env_variable": "DATABASE_URL",
+    "logging": false
+  },
+  "production": {
+    "use_env_variable": "DATABASE_URL",
+    "logging": false
+  }
+}

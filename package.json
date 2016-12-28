@@ -25,6 +25,8 @@
   },
   "dependencies": {
     "moment": "2.14.1",
+    "twilio": "^2.11.1",
+    "underscore": "^1.8.3",
     "yadaguru-data": "git+https://github.com/yadaguru/yadaguru-data.git#master",
     "yadaguru-reminders": "git+https://github.com/yadaguru/yadaguru-reminders.git#master"
   }
