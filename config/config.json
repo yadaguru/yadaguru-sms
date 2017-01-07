@@ -4,7 +4,8 @@
     "password": "yadaguru",
     "database": "yadaguru",
     "host": "postgres",
-    "dialect": "postgresql"
+    "dialect": "postgresql",
+    "logging": false
   },
   "test": {
     "username": "yadaguru",
