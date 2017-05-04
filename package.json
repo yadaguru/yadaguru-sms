@@ -25,10 +25,10 @@
   },
   "dependencies": {
     "moment": "2.14.1",
-    "twilio": "^2.11.1",
-    "underscore": "^1.8.3",
-    "winston": "^2.3.1",
-    "yadaguru-data": "0.0.3",
-    "yadaguru-reminders": "0.1.0"
+    "twilio": "2.11.1",
+    "underscore": "1.8.3",
+    "winston": "2.3.1",
+    "yadaguru-data": "0.1.0",
+    "yadaguru-reminders": "0.4.1"
   }
 }
