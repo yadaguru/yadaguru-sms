@@ -15,11 +15,7 @@
     "dialect": "postgresql",
     "logging": false
   },
-  "qa": {
-    "use_env_variable": "DATABASE_URL",
-    "logging": false
-  },
-  "qam": {
+  "staging": {
     "use_env_variable": "DATABASE_URL",
     "logging": false
   },
